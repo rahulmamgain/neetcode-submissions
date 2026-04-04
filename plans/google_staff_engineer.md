@@ -10,12 +10,12 @@
 **Goal:** Remove rust, regain coding fluency
 
 ## 🔹 Day 1
-- [ ] Contains Duplicate
-- [ ] Valid Anagram
-- [ ] Two Sum
+- [x] Contains Duplicate
+- [x] Valid Anagram
+- [x] Two Sum
 
 ## 🔹 Day 2
-- [ ] Group Anagrams
+- [x] Group Anagrams - REDO
 - [ ] Top K Frequent Elements
 
 ## 🔹 Day 3
