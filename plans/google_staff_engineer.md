@@ -16,31 +16,31 @@
 
 ## 🔹 Day 2
 - [x] Group Anagrams - REDO
-- [ ] Top K Frequent Elements
+- [x] Top K Frequent Elements
 
 ## 🔹 Day 3
-- [ ] Product of Array Except Self
-- [ ] Best Time to Buy And Sell Stock
+- [x] Product of Array Except Self
+- [x] Best Time to Buy And Sell Stock
 
 ## 🔹 Day 4
-- [ ] Valid Palindrome
-- [ ] Two Sum II Input Array Is Sorted
-- [ ] Container With Most Water
+- [-] Valid Palindrome
+- [-] Two Sum II Input Array Is Sorted
+- [-] Container With Most Water
 
 ## 🔹 Day 5
-- [ ] 3Sum
-- [ ] Longest Substring Without Repeating Characters
+- [-] 3Sum
+- [-] Longest Substring Without Repeating Characters
 
 ## 🔹 Day 6
-- [ ] Longest Repeating Character Replacement
-- [ ] Permutation In String
+- [-] Longest Repeating Character Replacement
+- [-] Permutation In String
 
 ## 🔹 Day 7 (REVISION + MOCK)
-- [ ] Re-solve: Two Sum
-- [ ] Re-solve: Group Anagrams
-- [ ] Re-solve: Product of Array Except Self
-- [ ] Re-solve: 3Sum
-- [ ] Re-solve: Longest Substring Without Repeating Characters
+- [x] Re-solve: Two Sum
+- [x] Re-solve: Group Anagrams
+- [x] Re-solve: Product of Array Except Self
+- [-] Re-solve: 3Sum
+- [-] Re-solve: Longest Substring Without Repeating Characters
 - [ ] Timed mock (pick 1 medium from this week)
 
 ---
@@ -50,11 +50,11 @@
 **Goal:** Pattern recognition + structured thinking
 
 ## 🔹 Day 1
-- [ ] Valid Parentheses
-- [ ] Min Stack
+- [x] Valid Parentheses
+- [x] Min Stack
 
 ## 🔹 Day 2
-- [ ] Daily Temperatures
+- [-] Daily Temperatures
 - [ ] Binary Search
 
 ## 🔹 Day 3
