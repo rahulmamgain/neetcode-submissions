@@ -55,15 +55,15 @@
 
 ## 🔹 Day 2
 - [-] Daily Temperatures
-- [ ] Binary Search
+- [x] Binary Search
 
 ## 🔹 Day 3
-- [ ] Search In Rotated Sorted Array
-- [ ] Find Minimum In Rotated Sorted Array
+- [-] Search In Rotated Sorted Array
+- [-] Find Minimum In Rotated Sorted Array
 
 ## 🔹 Day 4
 - [ ] Koko Eating Bananas
-- [ ] Kth Largest Element In An Array
+- [x] Kth Largest Element In An Array
 
 ## 🔹 Day 5
 - [ ] Merge Intervals
@@ -88,13 +88,13 @@
 **Goal:** Master traversal + graph thinking
 
 ## 🔹 Day 1
-- [ ] Maximum Depth Of Binary Tree
-- [ ] Same Tree
-- [ ] Invert Binary Tree
+- [x] Maximum Depth Of Binary Tree
+- [x] Same Tree
+- [x] Invert Binary Tree
 
 ## 🔹 Day 2
-- [ ] Binary Tree Level Order Traversal
-- [ ] Validate Binary Search Tree
+- [x] Binary Tree Level Order Traversal
+- [-] Validate Binary Search Tree
 
 ## 🔹 Day 3
 - [ ] Lowest Common Ancestor Of A Binary Search Tree
